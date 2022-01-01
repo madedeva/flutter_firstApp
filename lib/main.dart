@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
             child: Container(
-              color: Colors.lightBlue,
+              color: Colors.redAccent,
               width: 150,
               height: 50,
               child: Text("Get Started"))),
